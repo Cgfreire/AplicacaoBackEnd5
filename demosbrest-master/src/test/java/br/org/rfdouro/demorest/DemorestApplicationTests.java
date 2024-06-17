@@ -8,6 +8,7 @@ class DemorestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//apenas comentando o código
 	}
 
 }
